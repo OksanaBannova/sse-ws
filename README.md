@@ -1,4 +1,5 @@
-
+[GitHub Pages](https://oksanabannova.github.io/sse-ws/)
+[![Build status](https://ci.appveyor.com/api/projects/status/igj3u3cf19o9w9nl?svg=true)](https://ci.appveyor.com/project/OksanaBannova/sse-ws)
 
 
 # Домашнее задание к занятию "8. EventSource, Websockets"
