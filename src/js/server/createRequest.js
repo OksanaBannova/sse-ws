@@ -1,6 +1,6 @@
 export default async function createRequest(options) {
-  // const baseUrl = "http://localhost:3000"; // локальный сервер
-  const baseUrl = "https://ahj-homeworks-sse-ws-backend-4lat.onrender.com"; // сервер на Render
+  // const baseUrl = "http://localhost:8080"; // локальный сервер
+  const baseUrl = "https://sse-ws-lsz9.onrender.com"; // сервер на Render
 
   const { method, url, body } = options;
 
