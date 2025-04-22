@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  div,
+  button {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  button {
+    color: inherit;
+    cursor: pointer;
+  }
+  
+  button,
+  input,
+  textarea {
+    border: none;
+    font-size: inherit;
+    background-color: #fff;
+    outline: none;
+  }
+  
+  ul,
+  ol {
+    list-style-type: none;
+  }
+  
+  body {
+    padding: 50px;
+    background-color: #f5ebeb;
+  }
+  
+  #main {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .visually-hidden {
+    position: fixed;
+    transform: scale(0);
+  }
